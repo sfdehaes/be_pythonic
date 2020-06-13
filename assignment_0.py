@@ -22,3 +22,9 @@ for i in range(50):
 print("5 delen door 3 rest: ", 5%3)
 print("6 delen door 3 rest: ", 6%3)
 print("7 delen door 3 rest: ", 7%3)
+
+# Add to git
+# git status
+# git add .
+# git commit -m "bericht"
+# git push
